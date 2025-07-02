@@ -1,0 +1,8 @@
+### 🧾 Projeto: Testes em Aplicativo Mobile – Urban Lunch
+
+Neste projeto, atuei como Analista de QA na **elaboração de um checklist de testes manuais** com base nos requisitos funcionais do novo aplicativo Android **Urban Lunch**, desenvolvido para pedidos de refeições com retirada em pontos de coleta.
+
+Após estudar os requisitos do sistema e analisar os layouts disponíveis no Figma, instalei o aplicativo em um emulador Android (Pixel 5) e executei todos os testes planejados, validando fluxos como seleção de restaurante, escolha de pratos e confirmação de pedido.  
+Durante os testes, todos os comportamentos divergentes foram **registrados no Jira** com seus respectivos links anexados à planilha.
+
+📄 [Clique aqui para visualizar a planilha com o checklist de testes e relatórios] https://docs.google.com/spreadsheets/d/1STBmbMNR4lUpPype9mZOgIOg81GzT1boKA35Ib3alEA/edit?gid=287334773#gid=287334773
