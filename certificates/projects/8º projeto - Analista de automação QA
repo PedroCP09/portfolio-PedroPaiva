@@ -1,0 +1,20 @@
+### Sprint 8: Automação de Testes de Aplicativos Web com Selenium
+
+Neste sprint, finalizei o desenvolvimento dos testes automatizados para o fluxo completo de solicitação de táxi no aplicativo Urban Routes, utilizando Selenium e o padrão Page Object Model (POM).
+
+Principais entregas e aprendizados:
+
+- Implementação das classes de setup e teardown para melhor organização dos testes;
+- Criação da classe de página `UrbanRoutesPage` para encapsular os localizadores e métodos de interação com os elementos da interface;
+- Desenvolvimento dos testes automatizados cobrindo:
+  - Definição de endereço;
+  - Seleção de plano Comfort com tratamento condicional para evitar falhas;
+  - Preenchimento do número de telefone com recuperação do código SMS via helper;
+  - Adição de cartão de crédito, incluindo manipulação do foco para ativar botões;
+  - Inclusão de comentários para o motorista;
+  - Pedido de cobertor, lenços e sorvetes com verificação do estado dos seletores;
+  - Confirmação do pedido de táxi com verificação da janela modal de busca de carros.
+
+Após a implementação, executei os testes com Pytest, garantindo a execução sem erros e a correta validação das funcionalidades.
+
+📂 [Acesse o repositório completo aqui] 
