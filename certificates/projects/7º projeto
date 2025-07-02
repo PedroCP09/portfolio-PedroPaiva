@@ -1,0 +1,14 @@
+### 🧾 Projeto: Introdução à Automação de Testes – Urban Routes
+
+Neste sprint, dei os primeiros passos na automação de testes com Python, preparando a base para os testes futuros com Selenium.  
+As principais atividades incluíram:
+
+- Criação do arquivo `helpers.py` com código auxiliar para execução dos testes (sem alterações necessárias);
+- Definição de constantes e dados de teste no arquivo `data.py` para facilitar manutenção futura;
+- Preparação do arquivo `main.py` com funções de teste vazias, estruturadas para uso posterior no Sprint 8;
+- Implementação de verificação de disponibilidade do servidor Urban Routes, garantindo que os testes só sejam executados se o servidor estiver ativo;
+- Início da lógica para o teste de pedido de sorvete, incluindo estrutura de loop para futura automação.
+
+O projeto focou na organização do código, boas práticas e preparação do ambiente, facilitando a evolução da automação nos próximos sprints.
+
+📄 [Clique aqui para acessar o repositório com o código do projeto] 
