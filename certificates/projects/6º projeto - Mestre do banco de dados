@@ -1,0 +1,13 @@
+### 🧾 Projeto: Banco de Dados – Aplicativo de Táxi
+
+Neste projeto, trabalhei com consultas SQL e manipulação de logs para um aplicativo de táxi, com foco em análise de dados e investigação de bugs no sistema.  
+As atividades incluíram:
+
+- Extração e filtragem de logs remotos via terminal, com comandos para identificar solicitações específicas e organizar erros em arquivos distintos;
+- Conexão e consultas ao banco de dados PostgreSQL `chicago_taxi`, realizando contagem de veículos por empresa, análise de disponibilidade de táxis e agrupamentos condicionais;
+- Criação de seleções que relacionam dados meteorológicos às corridas, utilizando operadores condicionais (CASE) para verificar o impacto do clima no custo das viagens;
+- Análise do número de corridas por empresa em datas específicas, aplicando funções de agregação e junções entre tabelas.
+
+Todos os resultados e comandos utilizados foram organizados em planilha Google, com acesso compartilhado para revisão.
+
+📄 [Clique aqui para visualizar a planilha com os comandos SQL, logs e análises] https://docs.google.com/document/d/1vIc1psNfOGPjQI207wDaXGzEylcq3XCKPjie9powffE/edit?tab=t.0
