@@ -1,0 +1,9 @@
+### 🧾 Projeto: Testes de API – Urban.Grocers
+
+Neste sprint, atuei na **análise dos requisitos de back-end** e na criação de um **checklist de testes manuais para validação da API** do novo recurso do Urban.Grocers.  
+Os testes envolveram a funcionalidade de criação de kits de produtos e a verificação de disponibilidade e cálculo de custo do serviço de entrega “Order and Go”.
+
+Utilizei o **Postman** para realizar as requisições e validar os endpoints conforme a documentação disponível no ApiDoc.  
+Todos os testes planejados foram executados, e eventuais falhas encontradas foram **reportadas no Jira** com os respectivos links registrados na planilha.
+
+📄 [Clique aqui para visualizar a planilha com os testes de API e relatórios] https://docs.google.com/spreadsheets/d/1OaMklxO5m-2KMKie2wB5-a1fuQPBRlTb/edit?gid=222111639#gid=222111639
