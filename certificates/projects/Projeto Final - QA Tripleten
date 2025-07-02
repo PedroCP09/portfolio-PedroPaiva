@@ -1,0 +1,26 @@
+Sprint 9: Projeto Final - Urban Scooter
+Neste sprint, realizei testes completos no aplicativo web Urban Scooter, abrangendo tanto a interface quanto o backend da aplicação.
+
+Tarefa 1 - Interface Web:
+
+Estudo detalhado dos requisitos e layouts da página "Fazer pedido" (formulário "About Customer");
+
+Desenvolvimento de casos de teste positivos e negativos para validar os campos nome e telefone do cliente;
+
+Execução dos testes nos navegadores Google Chrome e Opera, considerando resoluções específicas;
+
+Registro e rastreamento de bugs no Jira com documentação detalhada no arquivo Google Sheets.
+
+Tarefa 2 - Backend:
+
+Análise da documentação da API e requisitos de backend, incluindo endpoints para Adicionar e Excluir entregadores;
+
+Elaboração e execução dos casos de teste para validação funcional dos endpoints;
+
+Consulta ao banco de dados PostgreSQL para suporte às validações;
+
+Registro de bugs encontrados no Jira e organização dos resultados no modelo compartilhado.
+
+Este sprint reforçou a integração entre testes manuais e automatizados, além do uso combinado de ferramentas como Postman, Jira e bancos de dados, preparando-me para projetos mais complexos de QA.
+
+Link para observar a versão final do projeto: https://docs.google.com/spreadsheets/d/1h5eC3IcRvRt3KNeRZgjROEdk1HEdOkDciPkZrxDOwe8/edit?gid=0#gid=0
