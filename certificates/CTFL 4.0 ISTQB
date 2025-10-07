@@ -1,0 +1,64 @@
+# 🧠 Certificação CTFL (ISTQB) — Meus estudos e aprendizados
+
+Obtive recentemente a certificação **CTFL - Certified Tester Foundation Level (ISTQB)**, que valida meus conhecimentos fundamentais em **testes de software**.  
+Durante o período de estudos, explorei os principais **conceitos, técnicas e práticas** que formam a base do trabalho de um **profissional de Quality Assurance (QA)**.
+
+---
+
+## 📘 Principais capítulos estudados e aprendizados
+
+### 1️⃣ Fundamentos do Teste
+- Compreendi o **propósito dos testes de software** e sua importância para prevenir e detectar defeitos.  
+- Estudei os **sete princípios do teste**, que orientam a execução eficaz e racional das atividades de QA.  
+- Analisei o **ciclo de vida do teste** e sua relação com os diferentes modelos de desenvolvimento (cascata, ágil, incremental etc.).
+
+### 2️⃣ Teste Durante o Ciclo de Vida do Software
+- Entendi os **níveis de teste**: unitário, integração, sistema e aceitação — e seus diferentes objetivos.  
+- Aprendi a diferença entre **testes de confirmação e regressão**, e como garantir a qualidade contínua do software.  
+- Explorei como as **atividades de teste se adaptam** conforme o modelo de desenvolvimento utilizado.
+
+### 3️⃣ Técnicas de Teste Estático
+- Estudei **revisões, walkthroughs e inspeções**, destacando a importância de encontrar defeitos ainda nas fases iniciais.  
+- Aprendi a identificar **inconsistências em requisitos, casos de uso e planos de teste** antes da codificação.
+
+### 4️⃣ Técnicas de Teste Dinâmico  
+*(Caixa-Preta, Caixa-Branca e Baseadas na Experiência)*  
+- Pratiquei **técnicas de caixa-preta** como Particionamento de Equivalência e Análise de Valor Limite.  
+- Estudei **testes de caixa-branca** e entendi como medir cobertura de código e caminhos de execução.  
+- Conheci **técnicas baseadas em experiência**, que utilizam a intuição e o conhecimento prévio do testador.
+
+### 5️⃣ Gerenciamento de Teste
+- Aprofundei o estudo sobre **planejamento, monitoramento e controle** de testes.  
+- Entendi como lidar com **riscos e priorização**, garantindo foco nos testes mais críticos.  
+- Aprendi o uso de **métricas e indicadores** para avaliar o progresso e a qualidade do processo de teste.
+
+### 6️⃣ Ferramentas de Suporte ao Teste
+- Conheci as principais **categorias de ferramentas**: automação, gerenciamento de testes, rastreamento de defeitos, análise estática e mais.  
+- Reforcei a importância de selecionar ferramentas que **melhorem o processo**, sem substituir o raciocínio analítico humano.
+
+---
+
+## 💡 O que desejo aplicar como profissional de QA
+
+Com esse estudo, desenvolvi uma visão mais ampla sobre **qualidade como responsabilidade compartilhada**.  
+Pretendo aplicar meus conhecimentos de forma prática:
+
+- Participando desde o início do desenvolvimento, apoiando na **revisão de requisitos** e na **prevenção de defeitos**;  
+- Colaborando com desenvolvedores e analistas para **assegurar entregas de maior qualidade**;  
+- Planejando e executando **testes eficazes, bem documentados e automatizáveis**;  
+- Buscando constantemente **melhoria contínua e aprendizado constante**.  
+
+---
+
+## 🧾 Sobre o certificado
+
+📄 **Certificação:** ISTQB Certified Tester – Foundation Level (CTFL)  
+🏢 **Organização:** BSTQB / ISTQB  
+📅 **Ano de obtenção:** 2025  
+🔗 [Mais informações sobre o CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level.html)
+
+---
+
+> 🎯 *"Testar não é apenas encontrar defeitos — é garantir que o software entregue valor real e confiável ao usuário."*
+
+
